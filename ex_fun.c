@@ -16,7 +16,7 @@ int ex_fun(char **args)
 	};
 	int (*builtin_func[])(char **) = {
 		&cd_function,
-		&ENV_fun,
+		&env_fun,
 		&func_help,
 		&exit_fun
 	};
