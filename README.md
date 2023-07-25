@@ -1,2 +1,1 @@
-my telegram user is junior_frahat 
-send me 
+simple shell readme
