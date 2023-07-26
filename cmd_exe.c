@@ -4,7 +4,7 @@
  * is_cdir - checks ":" if is in the current directory.
  * @path: type char pointer char.
  * @i: type int pointer of index.
- * by youssef and hassan.
+ * by youssef
  * Return: 1 if the path is searchable in the cd, 0 otherwise.
  */
 int is_cdir(char *path, int *i)
