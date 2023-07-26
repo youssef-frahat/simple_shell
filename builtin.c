@@ -3,7 +3,7 @@
 /**
  * get_builtin - builtin that pais the command in the arg
  * @cmd: command
- * made by youssef and hassan
+ * made by youssef
  * Return: function pointer of the builtin command
  */
 int (*get_builtin(char *cmd))(data_shell *)
