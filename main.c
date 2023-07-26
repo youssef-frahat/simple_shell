@@ -4,7 +4,7 @@
  * free_data - frees data structure
  *
  * @datash: data structure
- * made by hassan and youssef
+ * made by youssef
  * Return: no return
  */
 void free_data(data_shell *datash)
