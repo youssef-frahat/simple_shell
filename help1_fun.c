@@ -2,7 +2,7 @@
 
 /**
  * aux_help - Help information for the builtin help.
- * by youssef and hassan
+ * by youssef
  * Return: no return
  */
 void aux_help(void)
