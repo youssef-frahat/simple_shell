@@ -2,7 +2,7 @@
 
 /**
  * aux_help_env - Help information for the builtin env
- * by youssef and hassan
+ * by youssef
  * Return: no return
  */
 void aux_help_env(void)
