@@ -4,7 +4,7 @@
  * without_comment - deletes comments from the input
  *
  * @in: input string
- * made by youssef and hassan
+ * made by youssef
  * Return: input without comments
  */
 char *without_comment(char *in)
