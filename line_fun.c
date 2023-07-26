@@ -38,7 +38,7 @@ void bring_line(char **lineptr, size_t *n, char *buffer, size_t j)
  * @lineptr: buffer that stores the input
  * @n: size of lineptr
  * @stream: stream to read from
- * made by youssef and hassan
+ * made by youssef
  * Return: The number of bytes
  */
 ssize_t get_line(char **lineptr, size_t *n, FILE *stream)
